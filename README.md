@@ -1,5 +1,5 @@
 # 💫 About Me:
-First Year College Student<br>Aspiring Mobile/Web Developer<br>Tech enthusiast 
+🧑🏻First Year College Student<br>🧑🏻‍💻Aspiring Mobile/Web Developer<br>💻Tech enthusiast 
 
 
 # 💻 Tech Stack:
