@@ -1,4 +1,4 @@
-![JavaScript]([https://img.freepik.com/free-vector/app-development-concept-with-laptop_23-2148699364.jpg?t=st=1730001386~exp=1730004986~hmac=aedc7108f7a47e170182d431928848102e6b88f38f15bddb416426c805238df2&w=740](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
+![JavaScript]([https://img.freepik.com/free-vector/app-development-concept-with-laptop_23-2148699364.jpg?t=st=1730001386~exp=1730004986~hmac=aedc7108f7a47e170182d431928848102e6b88f38f15bddb416426c805238df2&w=740](https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # 💫 About Me:
 🧑🏻First Year College Student<br>🧑🏻‍💻Aspiring Mobile/Web Developer<br>💻Coder
