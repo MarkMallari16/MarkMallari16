@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🧑🏻First Year College Student<br>🧑🏻‍💻Aspiring Mobile/Web Developer/Software Engineer
+🧑🏻First Year College Student
 
 
 # 💻 Tech Stack:
