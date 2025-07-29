@@ -4,7 +4,7 @@ Aspiring Full-Stack Developer
 
 ## 🌱 Currently Learning
 - Zustand
-- Supabase (PostgreSQL + Auth + Realtime for my POS system)
+- Supabase (PostgreSQL + Auth + Realtime)
 - UI/UX best practices with Tailwind and DaisyUI
 
 ## Tech Stack
