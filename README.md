@@ -1,6 +1,6 @@
 ## About Me
 Second Year College Student  
-Aspiring Full-Stack Developer
+Aspiring Full-Stack Web Developer
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
