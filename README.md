@@ -1,5 +1,4 @@
 ## About Me
-Second Year College Student  
 Aspiring full-stack web developer
 
 ## Tech Stack
