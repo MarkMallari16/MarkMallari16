@@ -16,8 +16,3 @@ Aspiring full-stack web developer
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MarkMallari16&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMallari16&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff)
-
-[![](https://visitcount.itsvg.in/api?id=MarkMallari16&icon=0&color=000000)](https://visitcount.itsvg.in)
