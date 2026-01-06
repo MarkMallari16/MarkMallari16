@@ -3,6 +3,7 @@ Second Year College Student
 <br>
 Aspiring full-stack web developer
 
+
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
