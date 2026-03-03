@@ -1,4 +1,4 @@
-## About Me
+## ABOUT ME
 Second Year College Student
 <br>
 
